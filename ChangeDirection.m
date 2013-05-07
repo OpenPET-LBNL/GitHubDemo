@@ -1,8 +1,6 @@
 function [Direction]=ChangeDirection(Face_N,Line_Direction)
-<<<<<<< HEAD
-% Change by pqy dor demo
-=======
->>>>>>> 050885b... This is just for demo
+% changed by pqy
+
 
 i=Line_Direction(1);
 j=Line_Direction(2);
